@@ -12,6 +12,10 @@ public class MainActivity extends Activity {
 		setContentView(R.layout.activity_main);
 
 		System.out.println("LOCAL_beforeMerge TEST");
+		System.out.println("LOCAL_beforeMerge TEST");
+		System.out.println("LOCAL_beforeMerge TEST");
+		System.out.println("LOCAL_beforeMerge TEST");
+		System.out.println("LOCAL_beforeMerge TEST");
 
 	}
 
